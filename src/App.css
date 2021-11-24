@@ -1,0 +1,22 @@
+/* .app {
+    display: flex;
+    flex-direction: column;
+} */
+.section1dark {
+    height: 100vw;
+}
+h2 {
+    margin: 1rem;
+    text-align: center;
+}
+h3 {
+    margin-top: 3rem;
+    text-align: center;
+}
+.section2 {
+    height: 100vw;
+    margin: 3px;
+}
+.griddark {
+    background-color: #404040 !important;
+}
